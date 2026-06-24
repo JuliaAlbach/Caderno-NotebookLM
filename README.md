@@ -43,7 +43,7 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 Representação visual dos principais conceitos explorados no caderno temático.
 
-![Mapa mental](assets/mapa-mental.png)
+[Mapa mental](assets/mapa-mental.png)
 
 ---
 
