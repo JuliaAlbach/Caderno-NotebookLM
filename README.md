@@ -24,8 +24,6 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 ## 📚 Estrutura do repositório
 
-## 📁 Estrutura do projeto
-
 ```text
 📁 docs/
  ├── fontes.md         # Curadoria de referências utilizadas
