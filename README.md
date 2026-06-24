@@ -14,11 +14,11 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 ## 🎯 Objetivos
 
-* Explorar o uso do NotebookLM como ferramenta de apoio ao aprendizado
-* Realizar curadoria de fontes abertas relevantes sobre um tema específico
-* Desenvolver e testar estratégias de engenharia de prompts
-* Documentar o processo de interação com a IA (incluindo tentativas, ajustes e melhorias)
-* Consolidar o conhecimento em um miniguia estruturado de estudo
+- Explorar o uso do NotebookLM como ferramenta de apoio ao aprendizado
+- Realizar curadoria de fontes confiáveis sobre o tema **Transição Energética**
+- Compreender os principais conceitos relacionados à matriz energética, energias renováveis e sustentabilidade
+- Desenvolver e testar estratégias de engenharia de prompts para aprofundamento do tema
+- Documentar o processo de interação com a IA, incluindo ajustes e melhorias nas respostas
 
 ---
 
@@ -66,12 +66,16 @@ Durante o processo, foram testadas diferentes abordagens de interação com a IA
 
 ## 🧩 Aprendizados
 
-Este projeto permitiu desenvolver uma visão mais crítica sobre o uso de IA generativa como ferramenta de estudo, especialmente no que diz respeito a:
+Este projeto permitiu desenvolver uma visão mais crítica sobre o tema **Transição Energética** e sobre o uso de IA generativa como ferramenta de estudo.
 
-- Importância da qualidade das fontes  
-- Impacto da formulação dos prompts na resposta da IA  
-- Necessidade de iteração e refinamento contínuo  
-- Organização do conhecimento como parte essencial do aprendizado  
+Durante o processo, foi possível compreender melhor:
+
+- Os desafios da transição de fontes fósseis para energias renováveis
+- A importância de diversificação da matriz energética e sustentabilidade
+- O papel de tecnologias como hidrogênio, energia solar e eólica nesse cenário
+- Como a qualidade das fontes impacta diretamente a profundidade do aprendizado
+- O impacto da formulação de prompts na precisão e utilidade das respostas da IA
+- A necessidade de refinamento contínuo na interação com ferramentas de IA
 
 ---
 
