@@ -12,6 +12,15 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 ---
 
+## 🔗 NotebookLM do projeto
+
+A base deste projeto foi construída utilizando o NotebookLM, onde foram inseridas as fontes e realizados os processos de síntese de conhecimento e interação com a IA.
+
+👉 Acesse o caderno temático:  
+[NotebookLM - Transição Energética](https://notebooklm.google.com/notebook/5bfedefc-e8c0-4842-9158-ebff1a3b803b)
+
+---
+
 ## 🎯 Objetivos
 
 - Explorar o uso do NotebookLM como ferramenta de apoio ao aprendizado
