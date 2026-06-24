@@ -22,18 +22,11 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 ---
 
-## 📚 Estrutura do repositório
+## 📚  Componentes do projeto
 
-```text
-📁 docs/
- ├── fontes.md         # Curadoria de referências utilizadas
- ├── prompts.md        # Registro de engenharia de prompts
- ├── notebook.md       # Síntese final do aprendizado
- └── conclusao.md      # Dificuldades, ajustes e insights
-
-📁 assets/
- ├── mapa-mental.png   # Representação visual do tema
-```
+- [Fontes](docs/fontes.md)
+- [Prompts](docs/prompts.md)
+- [Conclusão](docs/conclusao.md)
 
 ---
 
