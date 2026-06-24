@@ -24,15 +24,18 @@ A proposta consiste em construir um **caderno temático estruturado**, combinand
 
 ## 📚 Estrutura do repositório
 
+## 📁 Estrutura do projeto
+
 ```text
 📁 docs/
  ├── fontes.md         # Curadoria de referências utilizadas
  ├── prompts.md        # Registro de engenharia de prompts
  ├── notebook.md       # Síntese final do aprendizado
- └── conclusão.md       # Dificuldades, ajustes e insights
+ └── conclusao.md      # Dificuldades, ajustes e insights
 
 📁 assets/
  ├── mapa-mental.png   # Representação visual do tema
+```
 
 ---
 
@@ -50,12 +53,12 @@ Representação visual dos principais conceitos explorados no caderno temático.
 
 O desenvolvimento do projeto seguiu as seguintes etapas:
 
-1. Definição do tema de estudo
-2. Seleção de fontes confiáveis e abertas
-3. Inserção de conteúdos no NotebookLM
-4. Experimentação com diferentes prompts
-5. Refinamento das respostas geradas pela IA
-6. Organização do material final em formato estruturado
+1. Definição do tema de estudo  
+2. Seleção de fontes confiáveis e abertas  
+3. Inserção de conteúdos no NotebookLM  
+4. Experimentação com diferentes prompts  
+5. Refinamento das respostas geradas pela IA  
+6. Organização do material final em formato estruturado  
 
 ---
 
@@ -63,10 +66,10 @@ O desenvolvimento do projeto seguiu as seguintes etapas:
 
 Durante o processo, foram testadas diferentes abordagens de interação com a IA, incluindo:
 
-* Ajustes de contexto e detalhamento dos prompts
-* Reformulação de perguntas para maior precisão
-* Iteração com base em respostas incompletas ou genéricas
-* Registro de falhas e melhorias aplicadas
+- Ajustes de contexto e detalhamento dos prompts  
+- Reformulação de perguntas para maior precisão  
+- Iteração com base em respostas incompletas ou genéricas  
+- Registro de falhas e melhorias aplicadas  
 
 ---
 
@@ -74,10 +77,10 @@ Durante o processo, foram testadas diferentes abordagens de interação com a IA
 
 Este projeto permitiu desenvolver uma visão mais crítica sobre o uso de IA generativa como ferramenta de estudo, especialmente no que diz respeito a:
 
-* Importância da qualidade das fontes
-* Impacto da formulação dos prompts na resposta da IA
-* Necessidade de iteração e refinamento contínuo
-* Organização do conhecimento como parte essencial do aprendizado
+- Importância da qualidade das fontes  
+- Impacto da formulação dos prompts na resposta da IA  
+- Necessidade de iteração e refinamento contínuo  
+- Organização do conhecimento como parte essencial do aprendizado  
 
 ---
 
